@@ -1,8 +1,8 @@
 <h1 align="center">
-  mutukrish.me
+  mutukrish.com
 </h1>
 <p align="center">
-  This an iteration of <a href="https://mutukrish.me" target="_blank">mutukrish.me</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  This an iteration of <a href="https://mutukrish.com" target="_blank">mutukrish.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ## 🛠 Installation & Set Up

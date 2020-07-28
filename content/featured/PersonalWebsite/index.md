@@ -2,7 +2,7 @@
 date: '2'
 title: 'Portfolio Profile'
 cover: './demo.png'
-external: 'https://mutukrish.me'
+external: 'https://mutukrish.com'
 tech:
   - React
   - Gatsby

@@ -4,7 +4,7 @@ module.exports = {
     'Muthukrishnan is a Frontend engineer based in Sydeny, Australia who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Muthukrishnan K, Muthukrishnan, mutukrish, frontend engineer, front-end engineer, web developer, javascript',
-  siteUrl: 'https://mutukrish.me',
+  siteUrl: 'https://mutukrish.com',
   siteLanguage: 'en_US',
   name: 'Muthukrishnan K',
   location: 'Muthukrishnan K, Sydney',
