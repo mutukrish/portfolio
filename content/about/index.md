@@ -20,7 +20,7 @@ skills:
   - Web components
 ---
 
-Hello! I'm Muthu, a Frontend engineer based in Sydeny, Australia.
+Hello! I'm Muthu, a Front End engineer based in Sydeny, Australia.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 

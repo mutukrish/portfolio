@@ -47,6 +47,7 @@ const StyledDescription = styled.div`
   margin-top: 25px;
   width: 50%;
   max-width: 500px;
+  font-size: 24px;
   a {
     ${mixins.inlineLink};
   }
@@ -81,11 +82,7 @@ const Hero = ({ data }) => {
       dangerouslySetInnerHTML={{ __html: html }}
     />
   );
-  const five = () => (
-    <div style={{ transitionDelay: '500ms' }}>
-      <StyledEmailLink href={`mailto:${email}`}>Get In Touch</StyledEmailLink>
-    </div>
-  );
+  const five = () => <div style={{ transitionDelay: '500ms' }}></div>;
 
   const items = [one, two, three, four, five];
 
